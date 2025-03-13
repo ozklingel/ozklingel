@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ozklingel
 - backend developer ,Amdocs,Raanana.
-- 
 EXPERIENCE
   Fullstack Python Flutter Team Leader Tochnit Hadar,  
    Present- volunteering
